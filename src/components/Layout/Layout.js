@@ -25,6 +25,7 @@ const Layout = ({ props, children, disablePaddingBottom = false }) => {
           charset="UTF-8"
           href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css"
         />
+        <meta name="google-site-verification" content="6A1bE_oisjK7IAPy4OSYBBkrUuT3xZsbxe9h76kqGIo" />
       </Helmet>
 
       <Header />
